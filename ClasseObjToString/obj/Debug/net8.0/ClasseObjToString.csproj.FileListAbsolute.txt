@@ -1,0 +1,14 @@
+C:\tmp\projetos\Classes\ClasseObjToString\ClasseObjToString\bin\Debug\net8.0\ClasseObjToString.exe
+C:\tmp\projetos\Classes\ClasseObjToString\ClasseObjToString\bin\Debug\net8.0\ClasseObjToString.deps.json
+C:\tmp\projetos\Classes\ClasseObjToString\ClasseObjToString\bin\Debug\net8.0\ClasseObjToString.runtimeconfig.json
+C:\tmp\projetos\Classes\ClasseObjToString\ClasseObjToString\bin\Debug\net8.0\ClasseObjToString.dll
+C:\tmp\projetos\Classes\ClasseObjToString\ClasseObjToString\bin\Debug\net8.0\ClasseObjToString.pdb
+C:\tmp\projetos\Classes\ClasseObjToString\ClasseObjToString\obj\Debug\net8.0\ClasseObjToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\projetos\Classes\ClasseObjToString\ClasseObjToString\obj\Debug\net8.0\ClasseObjToString.AssemblyInfoInputs.cache
+C:\tmp\projetos\Classes\ClasseObjToString\ClasseObjToString\obj\Debug\net8.0\ClasseObjToString.AssemblyInfo.cs
+C:\tmp\projetos\Classes\ClasseObjToString\ClasseObjToString\obj\Debug\net8.0\ClasseObjToString.csproj.CoreCompileInputs.cache
+C:\tmp\projetos\Classes\ClasseObjToString\ClasseObjToString\obj\Debug\net8.0\ClasseObjToString.dll
+C:\tmp\projetos\Classes\ClasseObjToString\ClasseObjToString\obj\Debug\net8.0\refint\ClasseObjToString.dll
+C:\tmp\projetos\Classes\ClasseObjToString\ClasseObjToString\obj\Debug\net8.0\ClasseObjToString.pdb
+C:\tmp\projetos\Classes\ClasseObjToString\ClasseObjToString\obj\Debug\net8.0\ClasseObjToString.genruntimeconfig.cache
+C:\tmp\projetos\Classes\ClasseObjToString\ClasseObjToString\obj\Debug\net8.0\ref\ClasseObjToString.dll
